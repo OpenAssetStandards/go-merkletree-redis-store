@@ -1,0 +1,15 @@
+*.test
+*.out
+access.log
+var/
+dist/
+docker-compose-private.yml
+.vscode
+.idea
+*.gpg
+
+
+# OS General
+Thumbs.db
+.DS_Store
+**/.DS_Store
